@@ -11,49 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* High School, Lycee Francais de Tamatave, 2013
+* B.S. in Mathematics & Computer Science, Ecole Polytechnique l'X, 2017
+* M.S. in Data Science, Ecole Polytechnique Federale de Lausanne, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Data Science Research Intern
+  * Besedo: Content Moderation
+  * Duties included: Transfer Learning, Pipeline deployement with Docker, Image Classification Task
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2020: Research Intern
+  * Centre Mathematiques Appliquees, CMAP
+  * Duties included: Approximation algorithm to maxcut, derandomization of 87% optimality using Lindenstrauss reduction, GM94. Work mostly on unweighted undirected graphs for a 98% empirical result.
+  * Supervisor: Prof. Giovanni Conforti
+ 
+* Summer 2019: Data Science Research Intern
+  * SGI-Venture Limited
+  * Computer Vision: 2d object detection, Facial comparison
+  * Facial Recognition: LBPH method for face comparison, detection using YoloV3 on pet faces
+* Fall 2019: Data Analysis Project Collaborator
+  * LEARN Laboratory 
+  * Prediction of sutdent's result in an environment of Flipped Learning: Feature Engineering, Data Analysis
+* Fall 2019: Part-Timer/ Project Collaborator
+  * LPBS Laboratory of Physics of Biological System
+  * Matlab Annotations, Semantic Semgentation paper presentation: Published in biorxiv
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Skills
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming Skills: Python, C++/C, Coq(OCAML variant)
+* Technologies: Latex, Jupyter/Collab, Linux/Unix, Xcode, GPU Computing Nvidia, Docker
+* Languages: Cantonese/Mandarin, French, English, Spanish
