@@ -9,8 +9,7 @@ venue: 'Journal 1'
 paperurl: 'https://www.researchgate.net/publication/340808352_Approximation_algorithm_approaches_for_the_Maximum_Cut_Problem_98_Empirical_Result_for_unweighted_undirected_graphs'
 citation: 'Michael Chan, Michael. (2020). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://www.researchgate.net/publication/340808352_Approximation_algorithm_approaches_for_the_Maximum_Cut_Problem_98_Empirical_Result_for_unweighted_undirected_graphs)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Michael Chan, Michael. (2020). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).
