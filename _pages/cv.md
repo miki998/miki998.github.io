@@ -44,7 +44,7 @@ Check the publication section for more details
 
 Projects
 ======
-Check the projects section for more details
+Check the portfolio section for more details
 
 Skills
 ======
