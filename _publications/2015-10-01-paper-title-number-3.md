@@ -1,15 +1,14 @@
 ---
-title: "Approximation algorithm approaches for the Maximum Cut Problem 98% Empirical Result for unweighted undirected graphs
-"
+title: "You Look Only Once and Local Binary Pattern Histogram method for Pet Recognition"
 collection: publications
-permalink: /publication/2020-04-01-MaxCut-98%
-excerpt: 'This study investigates the different applications of algorithms including approximation algorithms on Maximum Cut problem. Throughout the paper, a thorough review of the existing methods is made. From methods to solve Semi-Definite Programs to probabilistic and deter-ministic methods of rounding to round solutions of Semi-Definite Programs to MaximumCut problem solutions. Actual implementations of methods in Python is done to carry out performance and time comparisons. On top of comparisons, multiple methods of derandomization algorithms are shown alongside its proofs. In the original paper written by Michel Goemans and David Williamson [8], a potential method of derandomization was depicted but then proved wrong by Sanjeev Mahajan and Hariharan Rames in [13] that is again why we write in our paper multiple methods of derandomization of formulate a more complete set of solving methods to Maximum Cut. One of the goal of the paper was to compare a deran-domized rounding to the very well-known Goemans-Williamson 0.878 rounding algorithm: a comparison of performance for a similarly allocated time. We pursue in achieving a high approximation of MaxCut of graphs and manage to reach using derandomization rounding an empirical value of 0.991 of the optimum values for two sets of graphs.'
-date: 2020-04-01
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: '.'
+date: 2019-09-01
 venue: 'Research Gate'
-citation: 'Michael Chan, Michael. (2020). &quot;MaxCut.&quot; <i>Research Gate</i>. 1(1).'
+citation: 'Michael Chan, Michael. (2020). &quot;PetRecognition.&quot; <i>Research Gate</i>. 1(3).'
 ---
-This study investigates the different applications of algorithms including approximation algorithms on Maximum Cut problem. Throughout the paper, a thorough review of the existing methods is made. From methods to solve Semi-Definite Programs to probabilistic and deter-ministic methods of rounding to round solutions of Semi-Definite Programs to MaximumCut problem solutions. Actual implementations of methods in Python is done to carry out performance and time comparisons. On top of comparisons, multiple methods of derandomization algorithms are shown alongside its proofs. In the original paper written by Michel Goemans and David Williamson [8], a potential method of derandomization was depicted but then proved wrong by Sanjeev Mahajan and Hariharan Rames in [13] that is again why we write in our paper multiple methods of derandomization of formulate a more complete set of solving methods to Maximum Cut. One of the goal of the paper was to compare a deran-domized rounding to the very well-known Goemans-Williamson 0.878 rounding algorithm: a comparison of performance for a similarly allocated time. We pursue in achieving a high approximation of MaxCut of graphs and manage to reach using derandomization rounding an empirical value of 0.991 of the optimum values for two sets of graphs.
+
 
 [Download paper here](https://www.researchgate.net/publication/340808352_Approximation_algorithm_approaches_for_the_Maximum_Cut_Problem_98_Empirical_Result_for_unweighted_undirected_graphs)
 
-Recommended citation: Michael Chan, Michael. (2020). &quot;MaxCut.&quot; <i>Research Gate</i>. 1(1).
+Recommended citation: Michael Chan, Michael. (2020). &quot;PetRecognition.&quot; <i>Research Gate</i>. 1(3).
