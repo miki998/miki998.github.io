@@ -1,0 +1,14 @@
+---
+title: "YeaZ: A convolutional neural network for highly accurate, label-free segmentation of yeast microscopy images
+"
+collection: publications
+permalink: /publication2020-04-01-YeaZ
+excerpt: 'The identification of cell borders (‘segmentation’) in microscopy images constitutes a bottleneck for large-scale experiments. For the model organism Saccharomyces cerevisiae, current segmentation methods face challenges when cells bud, crowd, or exhibit irregular features. Here, we present i) the first set of publicly available, high-quality segmented yeast images (>10’000 cells) including mutants, stressed cells, and time courses, ii) a corresponding convolutional neural network (CNN), iii) a graphical user interface and a web application (www.quantsysbio.com) to efficiently employ, test, and expand the system. A key feature is a cell-cell boundary test which avoids the need for fluorescent markers. Our CNN is highly accurate, including for buds, and outperforms existing methods on benchmark images, indicating it transfers well to other conditions. To demonstrate how efficient, large-scale image processing uncovers new biology, we analyzed the geometries of ≈2200 wild-type and cyclin mutant cells and found that morphogenesis control occurs unexpectedly early and gradually.'
+date: 2020-04-01
+venue: 'biorxiv'
+citation: 'Michael Chan, Michael. (2020). &quot;YeaZ.&quot; <i>biorxiv</i>. 1(4).'
+---
+The identification of cell borders (‘segmentation’) in microscopy images constitutes a bottleneck for large-scale experiments. For the model organism Saccharomyces cerevisiae, current segmentation methods face challenges when cells bud, crowd, or exhibit irregular features. Here, we present i) the first set of publicly available, high-quality segmented yeast images (>10’000 cells) including mutants, stressed cells, and time courses, ii) a corresponding convolutional neural network (CNN), iii) a graphical user interface and a web application (www.quantsysbio.com) to efficiently employ, test, and expand the system. A key feature is a cell-cell boundary test which avoids the need for fluorescent markers. Our CNN is highly accurate, including for buds, and outperforms existing methods on benchmark images, indicating it transfers well to other conditions. To demonstrate how efficient, large-scale image processing uncovers new biology, we analyzed the geometries of ≈2200 wild-type and cyclin mutant cells and found that morphogenesis control occurs unexpectedly early and gradually.
+[Download paper here](https://www.biorxiv.org/content/10.1101/2020.05.11.082594v1)
+
+Recommended citation: Michael Chan, Michael. (2020). &quot;YeaZ.&quot; <i>biorxiv</i>. 1(4).
