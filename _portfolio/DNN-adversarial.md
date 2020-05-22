@@ -1,6 +1,6 @@
 ---
 title: "Fast Gradient adversarial attack"
-excerpt: "The project aims to influe on a highly efficient classifier. And therefore attack a deep neural network by modifying inputs  2 <br/><img src='/images/dog.png'>"
+excerpt: "The project aims to influe on a highly efficient classifier. And therefore attack a deep neural network by modifying inputs  2 <br/><img src='/images/adv.jpg'>"
 collection: portfolio
 ---
 The project aims to influe on a highly efficient classifier. And therefore attack a deep neural network by modifying inputs.
