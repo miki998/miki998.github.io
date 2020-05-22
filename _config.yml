@@ -13,7 +13,7 @@ name                     : &name "Michael Chan"
 description              : &description "personal description"
 url                      : https://miki998.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "miki998/miki998.github.io"
+repository               : "miki998.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,16 +85,16 @@ author:
   bio              : "BSc Maths/CS Polytechnique Paris Interest in Computer Vision: 3D Detection, Image registration/segmentation (instances and semantic)"
   location         : "Palaiseau, Paris France"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "miki998chan@gmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Chun_Hei_Michael_Chan"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
   github           : "miki998"
   google_plus      :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : chan-chun-hei-michael-90b296157
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "MaikoCo1"
   vine             :
   weibo            :
   xing             :
