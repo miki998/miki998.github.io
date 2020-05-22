@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael's website"
+title                    : "Michael's website Home"
 title_separator          : "-"
 name                     : &name "Michael Chan"
 description              : &description "personal description"
