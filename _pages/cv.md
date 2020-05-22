@@ -36,13 +36,15 @@ Work experience
 * Fall 2019: Part-Timer/ Project Collaborator
   * LPBS Laboratory of Physics of Biological System
   * Matlab Annotations, Semantic Semgentation paper presentation: Published in biorxiv
-  
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Check the publication section for more details
+
+Projects
+======
+Check the projects section for more details
 
 Skills
 ======
