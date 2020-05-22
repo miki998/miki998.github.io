@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Michael Chan"
-  avatar           : "profile.png"
+  avatar           : "download.png"
   bio              : "BSc Maths/CS Polytechnique Paris Interest in Computer Vision: 3D Detection, Image registration/segmentation (instances and semantic)"
   location         : "Palaiseau, Paris France"
   employer         :
