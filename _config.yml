@@ -13,7 +13,7 @@ name                     : &name "Michael Chan"
 description              : &description "personal description"
 url                      : https://miki998.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "miki998.github.io"
+repository               : "https://github.com/miki998"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Michael Chan"
   avatar           : "download.png"
-  bio              : "BSc Maths/CS Polytechnique Paris Interest in Computer Vision: 3D Detection, Image registration/segmentation (instances and semantic)"
-  location         : "Palaiseau, Paris France"
+  bio              : "MSc Data Science EPFL Interest in Computer Vision: 6D Detection, Pose Estimation, Image registration/segmentation"
+  location         : "Lausanne, Switzerland"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
