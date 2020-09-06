@@ -13,10 +13,15 @@ Education
 ======
 * High School, Lycee Francais de Tamatave, 2013
 * B.S. in Mathematics & Computer Science, Ecole Polytechnique l'X, 2017
-* M.S. in Data Science, Ecole Polytechnique Federale de Lausanne, 2020 (expected)
+* M.S. in Data Science, Ecole Polytechnique Federale de Lausanne, 2020
 
 Work experience
 ======
+* Long-Term 2020: Deep Learning Research Intern
+  * Intellinum Analytics Inc
+  * IR Concealed weapons detection & labellization feature exposing (pre-processing techniques to see weapons better)
+  * More ongoing
+  
 * Summer 2020: Data Science Research Intern
   * Besedo: Content Moderation
   * Duties included: Transfer Learning, Pipeline deployement with Docker, Image Classification Task
