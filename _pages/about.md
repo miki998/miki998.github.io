@@ -12,7 +12,7 @@ redirect_from:
 Short Intro
 ======
 
-Hi there, my name is Michael and I'm a Chinese born in HongKong. I was enrolled in the French Highschool of a city in Madagascar, from kindergarden until highschool. Then after undertaking my Baccalaureate (equivalent to IB), I decided to move to France, Paris for my studies. That's where I did my Bachelor in Mathematics and Computer Science at l'X Ecole Polytechnique. For three years, I've been solidifying my bases and acquiring basic knowledge for future tasks. I developed during my stay a strong interest for Computer Vision techniques, and researches that are really applying abstract mathematical concepts.
+Hi there, my name is Michael and I'm a Chinese born in HongKong. I was enrolled in the French Highschool of a city in Madagascar, from kindergarden until highschool. Then after undertaking my Baccalaureate (equivalent to IB), I decided to move to France, Paris for my studies. That's where I did my Bachelor in Mathematics and Computer Science at l'X Ecole Polytechnique. For three years, I've been solidifying my bases and acquiring basic knowledge for future tasks. I developed during my stay a strong interest for Computer Vision techniques, and researches that are really applying abstract mathematical concepts. Now I'm pursuing a MSc in Data Science at EPFL! Do contact me if you have any idea of paper that you want to publish or any POC.
 
 Project/Collaboration seeking
 ======
