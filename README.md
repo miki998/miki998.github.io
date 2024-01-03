@@ -1,3 +1,3 @@
-# Computational Physics at GT
+# Personal Website
 
-This website is modified from my template, [here](https://github.com/sbryngelson/academic-website-template).
+This website is modified from template linked over [here](https://github.com/sbryngelson/academic-website-template).
